@@ -4,7 +4,7 @@
 
 The file lists 614 objects (model path, position, rotation, scale and description) for the Eco-Polis 3D Builder: the Central Island with the Eco Crystal Core and Eco Towers A–E, the ring of floating districts, the Sky Ring Monorail, Sky Tube Bridges, the Skyport and the Sky Rescue Islet.
 
-**Group 5:** Lê Thiên Đạt, Hoàng Nguyên, Thành Liêm, Xuân Hải, Đình Anh, Nhật Minh, Minh Khang
+**Group 5:** Lê Thiên Đạt, Hoàng Nguyên, Xuân Hải, Nhật Minh, Minh Khang
 
 ## View it in 3D
 
